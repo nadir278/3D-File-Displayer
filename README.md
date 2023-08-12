@@ -1,8 +1,4 @@
 # 3D-File-Displayer
-This project was a home assignment in the Computer Graphics course at Braude College of Engineering.
-The project was to implement the theory of computer graphics into code.
-We wrote the graphics pipeline.
-The GUI section was given to us.
 To review the code open main.c 
-To run the code make sure to download the folder "LabProjectWithGlut_VS2019" and run "LabProjectWithGlut.sln".
+To run the code, download the folder "LabProjectWithGlut_VS2019" and run "LabProjectWithGlut.sln".
 When running left click and drag to turn the object. Right-click for more options.
